@@ -1,0 +1,127 @@
+/* Add your CSS styles here */
+.home-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff9800;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  
+  .home-button:hover {
+    background-color: transparent;
+  }
+
+
+  .Categories-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff9800;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  
+  .Categories-button:hover {
+    background-color: transparent;
+  }
+
+  
+  .About-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff9800;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  
+  .About-button:hover {
+    background-color: transparent;
+  }
+
+  .Contact-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff9800;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+  }
+  
+  .Contact-button:hover {
+    background-color: transparent;
+  }
+
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f1f1;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background-color: #555;
+    color: #fff;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: darkgrey;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+.shayari-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* Align items horizontally */
+    align-items: center; /* Align items vertically */
+}
+
+.shayari-item {
+    flex: 0 0 50%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+
+footer {
+    background-color: #555;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
